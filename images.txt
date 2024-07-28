@@ -1,7 +1,6 @@
 nginx
 mysql
 redis
-centos
 
 
 #支持私库
