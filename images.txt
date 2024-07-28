@@ -3,6 +3,7 @@ mysql
 redis
 bitnami/kafka
 bitnami/zookeeper
+syncthing/syncthing
 
 
 #支持私库
