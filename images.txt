@@ -5,6 +5,7 @@ bitnami/kafka
 bitnami/zookeeper
 syncthing/syncthing
 6053537/portainer-ce
+ngrok/ngrok
 
 
 #支持私库
