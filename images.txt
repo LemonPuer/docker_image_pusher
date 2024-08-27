@@ -3,7 +3,6 @@ mysql
 mysql:8.4.2
 redis
 redis:7.4.0
-openresty:1.21.4.3-3-3-focal
 dataease:2.9.0
 bitnami/kafka
 bitnami/zookeeper
