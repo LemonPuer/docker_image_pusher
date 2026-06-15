@@ -1,7 +1,7 @@
 1panel/openclaw:latest
-calciumion/new-api:latest
 chromedp/headless-shell:latest
 nousresearch/hermes-agent:latest
+ekkoye8888/hermes-web-ui:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
